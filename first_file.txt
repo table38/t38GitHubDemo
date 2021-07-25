@@ -1,3 +1,10 @@
 #created 2021.07.25
 
 This is a file created shortly after the creation of the t38GitHubDemo project. It was created in the main branch and, so far, consists only of this one line. Nothing after this point.
+
+Here is a change made in the 'Edit 1 to first_file.txt' branch. I am adding some changes here:
+Bulbasaur
+Charmander
+Squirtle
+Butterfree
+Pikachu
